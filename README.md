@@ -13,6 +13,10 @@ Visit our website for a comprehensive overview of our DevOps solutions, services
 
 ---
 
+**[Sticky note](https://sinzn.github.io/sticky_notes/)** - This is secured sticky note application using js projects
+
+
+
 ## 📂 Repository Overview
 
 Here’s a list of all our public repositories, categorized for easy access. Each repository includes code, documentation, and examples to help you get started.
