@@ -29,7 +29,7 @@ I'm a DevOps and AWS Cloud Engineer who specializes in automating processes, man
 
 ### CIDR Web Application
 - **Repository:** [CIDR Web App](https://github.com/sinzn/cidr-app)  
-- **Webpage:** [CIDR Web App](https://www.sinzn.fun/cidr/)  
+- **Webpage:** [CIDR Web App](http://www.sinzn.fun/Cidr/)  
 - **Description:** A tool for working with CIDR notation, ideal for network engineers and enthusiasts.
 
 ### Toss Web Application
